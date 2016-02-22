@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[propriocepce.cz]]></title>
         <description><![CDATA[propriocepce.cz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/propriocepce-cz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 14:39:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 14:45:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/propriocepce-cz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Why should we run?]]></title>
-            <description><![CDATA[<article><h1>Why should we run?</h1><p>Humans are endurance (aerobic) animals that evolved in a calorie-deficient environment with low-level but prolonged daily activity. Wearing ill-fitting shoes, sitting at desks all day long and then attempting to balance this with the latest fad of high intensity fitness programs, leads to a wide range of problems. Reverse the ‘Diseases of Civilisation’ and fulfill your evolutionary role: to walk and run efficiently, on demand and without injury, throughout your lifetime.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bdc42bcd68f04c03d7cabc2e4e6eed0f3443e1e.jpg"></article>]]></description>
-            <link>undefined7fd50c09-e93f-429f-8307-8615e0182962/index.html</link>
+            <description><![CDATA[<article><h1>Why should we run?</h1><p>Humans are endurance (aerobic) animals that evolved in a calorie-deficient environment with low-level but prolonged daily activity. Wearing ill-fitting shoes, sitting at desks all day long and then attempting to balance this with the latest fad of high intensity fitness programs, leads to a wide range of problems. Reverse the ‘Diseases of Civilisation’ and fulfill your evolutionary role: to walk and run efficiently, on demand and without injury, throughout your lifetime.</p></article>]]></description>
+            <link>https://thegrid.ai/propriocepce-cz/7fd50c09-e93f-429f-8307-8615e0182962/index.html</link>
             <guid isPermaLink="false">7fd50c09-e93f-429f-8307-8615e0182962</guid>
-            <pubDate>Mon, 22 Feb 2016 14:39:12 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 14:44:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
