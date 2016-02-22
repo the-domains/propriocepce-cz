@@ -1,0 +1,28 @@
+name: propriocepce.cz
+favicon: null
+layout_spectrum: 0.5315942976158112
+typography_spectrum: 0.7928585198242217
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8355957928579301
+  lightness: 0.8940466719213873
+  saturation: 0.08014506287872791
+  rhythmicContrast: 0.632160265929997
+purpose: []
