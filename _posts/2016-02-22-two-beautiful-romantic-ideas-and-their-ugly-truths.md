@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T14:49:43.789Z'
-dateModified: '2016-02-22T14:49:41.488Z'
+datePublished: '2016-02-22T14:50:08.215Z'
+dateModified: '2016-02-22T14:50:07.806Z'
 title: Two beautiful romantic ideas and their ugly truths
 author: []
 authors: []
